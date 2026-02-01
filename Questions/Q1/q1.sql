@@ -1,3 +1,5 @@
+-- How do you find duplicates entries in a table?
+
 DROP TABLE IF EXISTS animals;
 CREATE TABLE animals (
     animal_id INT AUTO_INCREMENT PRIMARY KEY,
