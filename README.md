@@ -13,11 +13,7 @@ Expand All: ctrl+K + ctrl+J
 -->
 
 
-### Introduction:
-
-This repository contains entry-level SQL interview questions that appear in many interview preperation resources found online.  
-
-All solutions were coded using PostgreSQL.
+**PostgreSQL**
 
 1. <a href="https://github.com/iweld/sql_interview_questions/blob/main/QUESTIONS_AND_ANSWERS.md#q1">How do you find duplicates in a table</a>?
 2. <a href="https://github.com/iweld/sql_interview_questions/blob/main/QUESTIONS_AND_ANSWERS.md#q2">How do you delete multiple entries from a table</a>?
