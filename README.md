@@ -11,7 +11,7 @@ Exercise question
 Collapse All: ctrl+K + ctrl+0
 Expand All: ctrl+K + ctrl+J
 -->
-❗ **Note** ❗
+
 
 ### Introduction:
 
