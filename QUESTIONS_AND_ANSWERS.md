@@ -11,6 +11,9 @@ Collapse All: ctrl+K + ctrl+0
 Expand All: ctrl+K + ctrl+J
 -->
 
+**How to run your .sql?**
+> sqlite3 -table -header < "filepath"
+
 ❗ **Note** ❗
 
 ### Introduction:
